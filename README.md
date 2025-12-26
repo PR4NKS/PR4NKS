@@ -1,19 +1,20 @@
 <h1 align="center">☠️ PRANKS.exe ☠️</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Ethical+Hacker;Threat+Hunter;Access+Granted..." /> </p> <p align="center"> <img src="https://img.shields.io/badge/Terminal-Online-black?style=for-the-badge&logo=windows-terminal" /> <img src="https://img.shields.io/badge/Security-Level%3A%20MAX-darkred?style=for-the-badge" /> </p>
 
-## 🧠 WHOAMI
-``$ whoami
+## 🖥️ TERMINAL SESSION
+```bash
+┌──(pranks㉿matrix)-[~]
+└─$ whoami
 PRANKS.exe
 
-$ role
-Cybersecurity Specialist | Ethical Hacker | Security Researcher
+┌──(pranks㉿matrix)-[~]
+└─$ role
+Cybersecurity | Ethical Hacking | Security Research
 
-$ location
-Cyberspace 🌐
-
-$ status
-[██████████] 100% — Always Learning | Always Testing | Always Improving``
-
-## ⚙️ SKILLS LOADING...
+┌──(pranks㉿matrix)-[~]
+└─$ status
+Learning • Testing • Securing
+````
+# ⚙️ SKILLS LOADING...
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=00FF00&center=true&vCenter=true&width=800&lines=Penetration+Testing;Vulnerability+Assessment;Threat+Hunting;Malware+Analysis;Web+%26+Network+Security;OSINT+%26+Forensics" alt="Skills Animation" />
@@ -58,34 +59,10 @@ $ status
   </tr>
 </table>
 
-## 📊 SYSTEM STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PR4NKS&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PR4NKS&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR4NKS&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PR4NKS&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
-
-## 🐍 MATRIX MODE (CONTRIBUTION SNAKE)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PR4NKS/PR4NKS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PR4NKS/PR4NKS/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PR4NKS/PR4NKS/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 ## 🧠 AREAS OF INTEREST
@@ -105,14 +82,13 @@ No illegal hacking.
 Hack responsibly.
 
 ## 📡 CONNECTION STATUS
-User : PRANKS.exe
+
+````User : PR4NKS
 Platform : GitHub
 Access Level : AUTHORIZED
 Mode : STEALTH
 Signal : ██████████ 100%
-
-text
-
+````
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=120&section=footer" alt="Footer" />
 </p>
