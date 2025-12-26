@@ -46,7 +46,7 @@ $ status
 📈 ACTIVITY GRAPH
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PR4NKS&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" /> </p>
 🐍 MATRIX MODE (CONTRIBUTION SNAKE)
-<p align="center"> <img src="https://github.com/PR4NKS/PR4NKS/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
+[<p align="center"> <img src="https://github.com/PR4NKS/PR4NKS/blob/output/github-contribution-grid-snake-dark.svg" /> </p>](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 🧠 AREAS OF INTEREST
 ✔ Ethical Hacking
 ✔ Red Team Operations
