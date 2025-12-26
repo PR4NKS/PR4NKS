@@ -1,14 +1,4 @@
-<h1 align="center">☠️ PR4NKS ☠️</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=700&color=00FF00&center=true&vCenter=true&width=900&lines=Initializing+System...;Cybersecurity+Specialist;Ethical+Hacker;Threat+Hunter;Access+Granted+✔" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-ACTIVE-success?style=for-the-badge" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Security-Level-MAX-darkred?style=for-the-badge" alt="Security Level Badge" />
-  <img src="https://img.shields.io/badge/Mode-STEALTH-black?style=for-the-badge" alt="Mode Badge" />
-</p>
+<h1 align="center">☠️ PRANKS.exe ☠️</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Ethical+Hacker;Threat+Hunter;Access+Granted..." /> </p> <p align="center"> <img src="https://img.shields.io/badge/Terminal-Online-black?style=for-the-badge&logo=windows-terminal" /> <img src="https://img.shields.io/badge/Security-Level%3A%20MAX-darkred?style=for-the-badge" /> </p>
 
 ## 🧠 WHOAMI
 $ whoami
