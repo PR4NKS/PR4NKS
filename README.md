@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/Security-Level%3A%20MAX-darkred?style=for-the-badge" />
 </p>
 
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,html,js" /> </p>
+
+
 ---
 
 ## 🧠 WHOAMI
