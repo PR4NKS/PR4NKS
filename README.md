@@ -9,19 +9,16 @@
   <img src="https://img.shields.io/badge/Security-Level%3A%20MAX-darkred?style=for-the-badge" />
 </p>
 
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,html,js" /> </p>
-
-
----
-
-## 🧠 WHOAMI
-```bash
 $ whoami
-PR4NKS
+PRANKS.exe
 
 $ role
-Cybersecurity | Ethical Hacking | Security Research
+Cybersecurity Specialist | Ethical Hacker | Security Researcher
+
+$ location
+Cyberspace 🌐
 
 $ status
-Always Learning. Always Testing.
+[██████████] 100% — Always Learning | Always Testing | Always Improving
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=00FF00&center=true&vCenter=true&width=700&lines=Penetration+Testing;Vulnerability+Assessment;Threat+Hunting;Malware+Analysis;Web+%26+Network+Security;OSINT+%26+Forensics" /> </p>
